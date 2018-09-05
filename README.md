@@ -1,6 +1,6 @@
 ﻿# HOWTO
 
-## Prerequisites
+## Preparation
 
 * Open file **IocConfig.cs** to update `CONNECTION_STRING` and `BADCONTEXT_CONNECTION_STRING` constants to your local connection strings (They must be 2 different databases).
 
